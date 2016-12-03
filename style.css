@@ -1,6 +1,6 @@
 div{
   width:500px;
-  height:300px;
+  height:350px;
   margin:auto;
   background-color: #08FFF2;
   border: 2px solid black;
@@ -20,6 +20,7 @@ div{
 #ranInput{
 	margin-left: 20px;
 }
+
 
 input{
   width:50px;
